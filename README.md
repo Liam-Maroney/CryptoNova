@@ -1,0 +1,2 @@
+# CryptoNova
+Trading Assistant
